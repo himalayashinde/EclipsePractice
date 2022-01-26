@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18593" started-at="2021-12-31T17:30:18Z" finished-at="2021-12-31T17:30:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18593" started-at="2021-12-31T17:30:18Z" finished-at="2021-12-31T17:30:36Z">
+      <class name="HimalayaPractice.ExtentReports.ExtentReportsJS">
+        <test-method status="PASS" signature="config()[pri:0, instance:HimalayaPractice.ExtentReports.ExtentReportsJS@4883b407]" name="config" is-config="true" duration-ms="386" started-at="2021-12-31T23:00:18Z" finished-at="2021-12-31T23:00:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method status="PASS" signature="initialDemo()[pri:0, instance:HimalayaPractice.ExtentReports.ExtentReportsJS@4883b407]" name="initialDemo" duration-ms="18159" started-at="2021-12-31T23:00:18Z" finished-at="2021-12-31T23:00:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialDemo -->
+      </class> <!-- HimalayaPractice.ExtentReports.ExtentReportsJS -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

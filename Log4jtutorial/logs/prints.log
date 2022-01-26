@@ -1,0 +1,4 @@
+13:27:25.539 [main] DEBUG beta.Demo1 - I am debugging in beta...!!!
+13:27:25.554 [main] INFO  beta.Demo1 - object is present in beta
+13:27:25.555 [main] ERROR beta.Demo1 - object is not present in beta
+13:27:25.555 [main] FATAL beta.Demo1 - This is fatal in beta

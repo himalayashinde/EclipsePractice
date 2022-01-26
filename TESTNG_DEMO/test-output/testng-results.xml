@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="14" passed="14">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Loan Department" duration-ms="203" started-at="2021-12-27T12:34:45Z" finished-at="2021-12-27T12:34:45Z">
+    <groups>
+    </groups>
+    <test name="Personal Loan" duration-ms="106" started-at="2021-12-27T12:34:45Z" finished-at="2021-12-27T12:34:45Z">
+      <class name="Sample.testngdemo">
+        <test-method status="PASS" signature="secondTest()[pri:0, instance:Sample.testngdemo@735f7ae5]" name="secondTest" duration-ms="20" started-at="2021-12-27T18:04:45Z" finished-at="2021-12-27T18:04:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondTest -->
+        <test-method status="PASS" signature="testdemo()[pri:0, instance:Sample.testngdemo@735f7ae5]" name="testdemo" duration-ms="2" started-at="2021-12-27T18:04:45Z" finished-at="2021-12-27T18:04:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdemo -->
+      </class> <!-- Sample.testngdemo -->
+      <class name="Sample.day2">
+        <test-method status="PASS" signature="demo()[pri:0, instance:Sample.day2@2c6a3f77]" name="demo" duration-ms="2" started-at="2021-12-27T18:04:45Z" finished-at="2021-12-27T18:04:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- Sample.day2 -->
+      <class name="Sample.day5">
+        <test-method status="PASS" signature="LoginAPIPropertyLoan()[pri:0, instance:Sample.day5@246ae04d]" name="LoginAPIPropertyLoan" duration-ms="2" started-at="2021-12-27T18:04:45Z" finished-at="2021-12-27T18:04:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginAPIPropertyLoan -->
+        <test-method status="PASS" signature="MobileLoginPropertyLoan()[pri:0, instance:Sample.day5@246ae04d]" name="MobileLoginPropertyLoan" duration-ms="6" started-at="2021-12-27T18:04:45Z" finished-at="2021-12-27T18:04:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileLoginPropertyLoan -->
+        <test-method status="PASS" signature="WebloginPropertyLoan()[pri:0, instance:Sample.day5@246ae04d]" name="WebloginPropertyLoan" duration-ms="2" started-at="2021-12-27T18:04:45Z" finished-at="2021-12-27T18:04:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebloginPropertyLoan -->
+      </class> <!-- Sample.day5 -->
+    </test> <!-- Personal Loan -->
+    <test name="Car Loan" duration-ms="9" started-at="2021-12-27T12:34:45Z" finished-at="2021-12-27T12:34:45Z">
+      <class name="Sample.day3">
+        <test-method status="PASS" signature="LoginAPICarLoan()[pri:0, instance:Sample.day3@67b6d4ae]" name="LoginAPICarLoan" duration-ms="2" started-at="2021-12-27T18:04:45Z" finished-at="2021-12-27T18:04:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginAPICarLoan -->
+        <test-method status="PASS" signature="WebloginCarLoan()[pri:0, instance:Sample.day3@67b6d4ae]" name="WebloginCarLoan" duration-ms="2" started-at="2021-12-27T18:04:45Z" finished-at="2021-12-27T18:04:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebloginCarLoan -->
+      </class> <!-- Sample.day3 -->
+    </test> <!-- Car Loan -->
+    <test name="Home Loan" duration-ms="15" started-at="2021-12-27T12:34:45Z" finished-at="2021-12-27T12:34:45Z">
+      <class name="Sample.day4">
+        <test-method status="PASS" signature="LoginAPIHomeLoan()[pri:0, instance:Sample.day4@36f6e879]" name="LoginAPIHomeLoan" duration-ms="3" started-at="2021-12-27T18:04:45Z" finished-at="2021-12-27T18:04:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginAPIHomeLoan -->
+        <test-method status="PASS" signature="MobileLoginHomeLoan()[pri:0, instance:Sample.day4@36f6e879]" name="MobileLoginHomeLoan" duration-ms="1" started-at="2021-12-27T18:04:45Z" finished-at="2021-12-27T18:04:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileLoginHomeLoan -->
+        <test-method status="PASS" signature="WebloginHomeLoan()[pri:0, instance:Sample.day4@36f6e879]" name="WebloginHomeLoan" duration-ms="2" started-at="2021-12-27T18:04:45Z" finished-at="2021-12-27T18:04:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebloginHomeLoan -->
+      </class> <!-- Sample.day4 -->
+    </test> <!-- Home Loan -->
+    <test name="Property Loan" duration-ms="11" started-at="2021-12-27T12:34:45Z" finished-at="2021-12-27T12:34:45Z">
+      <class name="Sample.day5">
+        <test-method status="PASS" signature="LoginAPIPropertyLoan()[pri:0, instance:Sample.day5@2096442d]" name="LoginAPIPropertyLoan" duration-ms="2" started-at="2021-12-27T18:04:45Z" finished-at="2021-12-27T18:04:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginAPIPropertyLoan -->
+        <test-method status="PASS" signature="MobileLoginPropertyLoan()[pri:0, instance:Sample.day5@2096442d]" name="MobileLoginPropertyLoan" duration-ms="2" started-at="2021-12-27T18:04:45Z" finished-at="2021-12-27T18:04:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileLoginPropertyLoan -->
+        <test-method status="PASS" signature="WebloginPropertyLoan()[pri:0, instance:Sample.day5@2096442d]" name="WebloginPropertyLoan" duration-ms="2" started-at="2021-12-27T18:04:45Z" finished-at="2021-12-27T18:04:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebloginPropertyLoan -->
+      </class> <!-- Sample.day5 -->
+    </test> <!-- Property Loan -->
+  </suite> <!-- Loan Department -->
+</testng-results>

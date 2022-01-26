@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Loan Department">
+	<test name="Personal Loan">
+		<classes>
+			<class name="Sample.testngdemo" />
+			<class name="Sample.day2" />
+
+
+			<class name="Sample.day5" />
+		</classes>
+	</test> <!-- Test -->
+
+	<test name="Car Loan">
+		<classes>
+			<class name="Sample.day3">
+			<methods>
+				<exclude name="MobileLogincarLoan" />
+			</methods>
+			</class>
+		</classes>
+	</test>
+
+
+	<test name="Home Loan">
+		<classes>
+			<class name="Sample.day4" />
+		</classes>
+	</test>
+
+
+	<test name="Property Loan">
+		<classes>
+			<class name="Sample.day5" />
+		</classes>
+	</test>
+
+</suite> <!-- Suite -->

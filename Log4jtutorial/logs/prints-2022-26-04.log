@@ -1,0 +1,8 @@
+13:22:19.734 [main] ERROR alpha.Demo - object is not present in  alpha
+13:22:19.739 [main] FATAL alpha.Demo - This is fatal in alpha
+13:22:43.019 [main] DEBUG beta.Demo1 - I am debugging in beta...!!!
+13:22:43.025 [main] INFO  beta.Demo1 - object is present in beta
+13:22:43.025 [main] ERROR beta.Demo1 - object is not present in beta
+13:22:43.025 [main] FATAL beta.Demo1 - This is fatal in beta
+13:23:35.104 [main] ERROR alpha.Demo - object is not present in  alpha
+13:23:35.110 [main] FATAL alpha.Demo - This is fatal in alpha
